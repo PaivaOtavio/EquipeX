@@ -7,8 +7,36 @@
     font-family: "roboto", sans-serif;
 }
 
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(180, 177, 177);
+    height: 8vh;
+}
+main{
+    background-color: black;
+}
+a:hover{
+    opacity: 1;
+}
+.nav-list{
+    list-style: none;
+    display:flex;
+}
+.nav-list li{
+    letter-spacing: 3px;
+    margin-left:32px;
+}
+.logo{
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+}
+
 body {
-    background:gray;
+    background:rgb(230, 216, 216);
     min-height: 100vh;
     min-width: 100vh;
     display: flex;
