@@ -1,6 +1,6 @@
 <h2 align="center"> Descrição </h2>
 
-Este é o front-end da Connexio
+Connexio
 
 <br/>
     <h3 align='center'>Acesse o projeto no heroku para testar: <a href='https://connexio.herokuapp.com/'><strong>Connexio</strong></a></h3>
