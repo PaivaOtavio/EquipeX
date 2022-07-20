@@ -1,5 +1,4 @@
 <h2 align="center"> Descrição </h2>
-![logo](https://user-images.githubusercontent.com/103431487/180067355-6f64570c-5f30-4d6d-9f61-dc21724a9842.png)
 
 Connexio
 
